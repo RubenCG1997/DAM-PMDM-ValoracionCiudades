@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Valoración ciudades</string>
+    <string name="lbl_paises">Paises:</string>
+    <string name="rbpais1">España</string>
+    <string name="rbpais2">Alemania</string>
+    <string name="rbpais3">Italia</string>
+    <string-array name="rbEspanna">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Sevilla</item>
+    </string-array>
+    <string-array name="rbAlemania">
+        <item>Baviera</item>
+        <item>Hesse</item>
+        <item>Sajonia</item>
+    </string-array>
+    <string-array name="rbItalia">
+        <item>Roma</item>
+        <item>Milan</item>
+        <item>Florencia</item>
+    </string-array>
+    <string name="rbPueblosMadrid1">Madrid(Capital)</string>
+    <string name="rbPueblosMadrid2">Alcalá de henares</string>
+    <string name="rbPueblosMadrid3">Leganés</string>
+    <string name="rbPueblosMadrid4">Móstoles</string>
+    <string name="rbPueblosMadrid5">Alcorcón</string>
+    <string name="rbPueblosMadrid6">Getafe</string>
+    <string name="rbPueblosBarcelona1">Barcleona(Capital)</string>
+    <string name="rbPueblosBarcelona2">Hospitalet de Llobregat</string>
+    <string name="rbPueblosBarcelona3">Badalona</string>
+    <string name="rbPueblosBarcelona4">Terrasa</string>
+    <string name="rbPueblosBarcelona5">Sabadell</string>
+    <string name="rbPueblosBarcelona6">Manresa</string>
+    <string name="rbPueblosSevilla1">Sevilla(Capital)</string>
+    <string name="rbPueblosSevilla2">Dos hermanas</string>
+    <string name="rbPueblosSevilla3">Alcalá de Guadaira</string>
+    <string name="rbPueblosSevilla4">Utrera</string>
+    <string name="rbPueblosSevilla5">Mairena del Aljarafe</string>
+    <string name="rbPueblosSevilla6">Écija</string>
+    <string name="rbPueblosBaviera1">Munich</string>
+    <string name="rbPueblosBaviera2">Núremberg</string>
+    <string name="rbPueblosBaviera3">Ausgburgo</string>
+    <string name="rbPueblosBaviera4">Ratisbona</string>
+    <string name="rbPueblosBaviera5">Wurzburgo</string>
+    <string name="rbPueblosBaviera6">Insgolstad</string>
+    <string name="rbPueblosHesse1">Fráncfort</string>
+    <string name="rbPueblosHesse2">Wiesbaden</string>
+    <string name="rbPueblosHesse3">Kassel</string>
+    <string name="rbPueblosHesse4">Darmstad</string>
+    <string name="rbPueblosHesse5">Offenbach</string>
+    <string name="rbPueblosHesse6">Hanau</string>
+    <string name="rbPueblosSajonia1">Dresde</string>
+    <string name="rbPueblosSajonia2">Leizpig</string>
+    <string name="rbPueblosSajonia3">Chemmitz</string>
+    <string name="rbPueblosSajonia4">Zwickau</string>
+    <string name="rbPueblosSajonia5">Görlitz</string>
+    <string name="rbPueblosSajonia6">Plauen</string>
+    <string name="rbPueblosRoma1">Roma(Capital)</string>
+    <string name="rbPueblosRoma2">Tivoli</string>
+    <string name="rbPueblosRoma3">Frascati</string>
+    <string name="rbPueblosRoma4">Civitavecchia</string>
+    <string name="rbPueblosRoma5">Castel Gandolfo </string>
+    <string name="rbPueblosRoma6">Bracciano</string>
+    <string name="rbPueblosMilan1">Milano(Capital)</string>
+    <string name="rbPueblosMilan2">Sesto San Giovanni</string>
+    <string name="rbPueblosMilan3">Rho</string>
+    <string name="rbPueblosMilan4">Cinisello Balsamo</string>
+    <string name="rbPueblosMilan5">San Donato Milanese</string>
+    <string name="rbPueblosMilan6">Legnano</string>
+    <string name="rbPueblosFlorencia1">Florencia(Capital)</string>
+    <string name="rbPueblosFlorencia2">Fiesole</string>
+    <string name="rbPueblosFlorencia3">Empoli</string>
+    <string name="rbPueblosFlorencia4">Pontassieve</string>
+    <string name="rbPueblosFlorencia5">Bagno a Ripoli</string>
+    <string name="rbPueblosFlorencia6">Sesto Fiorentino</string>
+    <string name="cb1">Negrita</string>
+    <string name="cb2">Cursiva</string>
+    <string name="lbl_info2">Estrellas</string>
+    <string name="lbl_info3">Tema Oscuro</string>
+
+
+</resources>
